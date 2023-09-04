@@ -8,7 +8,7 @@ El comercio electrónico se ha vuelto esencial para las empresas en la era de in
 ## Descripción de los datos. 
 Utilizaremos los datos “Online Shoppers Purchasing Intention Dataset”, disponibles en la carpeta Data. 
 Estos están compuestos por 12.330 registros y 18 variables. Las variables son las siguientes:
-Administrative: Indica el número de páginas de la categoría Administrativa visitadas en la sesión.  
+Administrative: Indica el número de páginas de la categoría Administrativa visitadas en la sesión. 
 Administrative_Duration: Indica la duración en segundos en páginas Administrativas durante la sesión.
 Informational: Indica el número de páginas de la categoría Informativa visitadas en la sesión.
 Informational_Duration: Indica la duración en segundos en páginas informativas durante la sesión.
